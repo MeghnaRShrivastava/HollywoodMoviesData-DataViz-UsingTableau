@@ -1,5 +1,5 @@
 # HollywoodMoviesData-DataViz-UsingTableau
-The original dataset that has been used for constructing the visualization can be found using the following link: ‘https://d17h27t6h515a5.cloudfront.net/topher/2017/January/587e7057_movies/movies.csv’. Can directly view the original 'movies.csv' file uploaded on the file section too! I have performed data cleaning and pre-processing steps (using Jupyter Notebook) on the dataset to convert the dataset into a executable form from the visualization point of view.
+The original dataset that has been used for constructing the visualization can be found using the following link: ‘https://d17h27t6h515a5.cloudfront.net/topher/2017/January/587e7057_movies/movies.csv’. Can directly view the original 'movies_original.csv' file uploaded on the file section too! I have performed data cleaning and pre-processing steps (using Jupyter Notebook) on the dataset to convert the dataset into a executable form from the visualization point of view.
 
 The tableau visualization can be directly viewed using the following link: (Tableau Link)
 https://public.tableau.com/profile/shrivastavarmeghna#!/vizhome/MovieGenre_DataViz_Story_Workbook/MovieGenre_DataViz_Workbook
